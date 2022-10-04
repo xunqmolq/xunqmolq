@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xunqmolq
 - 👀 I’m interested in all
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, data etc.
 - 📫 How to reach me: xunqmolq@gmail.com
 
 <!---
