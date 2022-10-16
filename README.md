@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xunqmolq
-- 👀 I’m interested in all
-- 🌱 I’m currently learning python, data etc.
+- 👀 I’m interested in Data Science/ Data Analitics
+- 🌱 I’m currently learning python, java.
 - 📫 How to reach me: xunqmolq@gmail.com
 
 <!---
